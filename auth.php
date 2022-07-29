@@ -25,5 +25,5 @@ if ($total_reg > 0) {
   echo "<script>window.location='admin'</script>";
 } else {
   echo "<script>window.alert('Usuário ou senha está incorreto');</script>";
-  echo "<script>window.location='login.php'</script>";
+  echo "<script>window.location='index.php'</script>";
 }
